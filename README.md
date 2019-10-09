@@ -23,6 +23,7 @@
 
 ## Basics
 
+- [UX Frameworks](https://www.uxframeworks.design) A great ressource of Frameworks for design research, synthesis, and ideation.
 - [UX Project Checklist](http://uxchecklist.github.io) A checklist that gives you all the needed deep dives in every stage of your project.
 
 ## Books
