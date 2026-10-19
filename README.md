@@ -73,6 +73,7 @@
 - [Hotjar](https://www.hotjar.com) Heatmaps, user flow recordings and conversion funnels - built into your product.
 - [Hubble](https://hubble.team) a unified tool for prototype testing and user research
 - [Maze](https://maze.design) user testing and usability research platform
+- [Pulse](https://pulsecorp.co) AI-moderated market research platform that runs customer interviews at scale
 
 ## UX/UI/Product & Design Feedback
 
